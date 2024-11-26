@@ -9,7 +9,7 @@ How to run the Best Lady Company Project
 
 ************************Credential for admin panel************************
 Username: admin
-Password: Test@123
+Password: aloyce
 
 ************************Credential for admin panel************************
 Username: pundit@gmail.com
